@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="mx.edu.ittepic.themickyebmo.tpdm_u3_practica1_maciasurzuadelia.MainActivity">
+    <item
+        android:id="@+id/cerrarSesion"
+        android:title="Cerrar Sesión" />
+    <item android:id="@+id/online" android:title="Peliculas Online"/>
+    <item android:id="@+id/mp4" android:title="Peliculas MP4"/>
+
+
+</menu>

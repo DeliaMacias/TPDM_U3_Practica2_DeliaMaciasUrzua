@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "514504021590",
+    "firebase_url": "https://ejercicio-49a15.firebaseio.com",
+    "project_id": "ejercicio-49a15",
+    "storage_bucket": "ejercicio-49a15.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514504021590:android:c044f5c8392c16f7",
+        "android_client_info": {
+          "package_name": "mx.edu.ittepic.themickyebmo.tpdm_u3_practica1_maciasurzuadelia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "514504021590-pnmvu80ler7cuo3tvo18q4vnmj2knnqi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYPqrJvrpiDcus6QyRpUUCLGuf1VzZ5fs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "514504021590-pnmvu80ler7cuo3tvo18q4vnmj2knnqi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

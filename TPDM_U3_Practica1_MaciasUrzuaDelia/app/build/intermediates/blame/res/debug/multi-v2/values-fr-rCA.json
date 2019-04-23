@@ -1,44 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/salfaro/Escritorio/TPDM_U3_Practica1_MaciasUrzuaDelia/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fr-rCA/values-fr-rCA.xml",
+            "outputFile": "C:\\Users\\TheMickyeBMO\\Documents\\moviles\\TPDM_U3_Practica1_MaciasUrzuaDelia\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-fr-rCA\\values-fr-rCA.xml",
             "map": [
                 {
-                    "source": "/home/salfaro/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/47333f232cd4fc27084c86ec336910c8/res/values-fr-rCA/values-fr-rCA.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,216,331,442,529,645,775,858,938,1034,1144,1256,1359,1470,1577,1679,1838,1937",
-                        "endColumns": "110,114,110,86,115,129,82,79,95,109,111,102,110,106,101,158,98,85",
-                        "endOffsets": "211,326,437,524,640,770,853,933,1029,1139,1251,1354,1465,1572,1674,1833,1932,2018"
-                    },
-                    "to": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,37",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,216,331,442,529,645,775,858,938,1034,1144,1256,1359,1470,1577,1679,1838,4838",
-                        "endColumns": "110,114,110,86,115,129,82,79,95,109,111,102,110,106,101,158,98,85",
-                        "endOffsets": "211,326,437,524,640,770,853,933,1029,1139,1251,1354,1465,1572,1674,1833,1932,4919"
-                    }
-                },
-                {
-                    "source": "/home/salfaro/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/0bfe9f356cd2837465937c2660c3c489/res/values-fr-rCA/values-fr-rCA.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "38",
-                        "startColumns": "4",
-                        "startOffsets": "4924",
-                        "endColumns": "100",
-                        "endOffsets": "5020"
-                    }
-                },
-                {
-                    "source": "/home/salfaro/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/60ecc6288641298a08040f1b73a49359/res/values-fr-rCA/values.xml",
+                    "source": "C:\\Users\\TheMickyeBMO\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\00fdd69e07a06131791f2f91b6eac11f\\res\\values-fr-rCA\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
@@ -55,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "/home/salfaro/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/2bc33806a1bb31d646fcb087c76288e7/res/values-fr-rCA/values.xml",
+                    "source": "C:\\Users\\TheMickyeBMO\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-15.0.1.aar\\c842d2fc71aad87214fc7bdac4cafcd1\\res\\values-fr-rCA\\values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -69,6 +35,40 @@
                         "startOffsets": "3158",
                         "endColumns": "219",
                         "endOffsets": "3373"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\TheMickyeBMO\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\ede0f80a12d614c5d22f303595f7dda1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "38",
+                        "startColumns": "4",
+                        "startOffsets": "4924",
+                        "endColumns": "100",
+                        "endOffsets": "5020"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\TheMickyeBMO\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\dd805d499f47a264ec81caa324fbc20a\\res\\values-fr-rCA\\values-fr-rCA.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,216,331,442,529,645,775,858,938,1034,1144,1256,1359,1470,1577,1679,1838,1937",
+                        "endColumns": "110,114,110,86,115,129,82,79,95,109,111,102,110,106,101,158,98,85",
+                        "endOffsets": "211,326,437,524,640,770,853,933,1029,1139,1251,1354,1465,1572,1674,1833,1932,2018"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,37",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,216,331,442,529,645,775,858,938,1034,1144,1256,1359,1470,1577,1679,1838,4838",
+                        "endColumns": "110,114,110,86,115,129,82,79,95,109,111,102,110,106,101,158,98,85",
+                        "endOffsets": "211,326,437,524,640,770,853,933,1029,1139,1251,1354,1465,1572,1674,1833,1932,4919"
                     }
                 }
             ]

@@ -1,7 +1,0 @@
-#Sun Apr 21 21:49:36 MDT 2019
-base.0=/home/salfaro/Escritorio/TPDM_U3_Practica1_MaciasUrzuaDelia/app/build/intermediates/transforms/dexMerger/debug/10
-path.1=classes2.dex
-renamed.1=classes2.dex
-path.0=classes.dex
-renamed.0=classes.dex
-base.1=/home/salfaro/Escritorio/TPDM_U3_Practica1_MaciasUrzuaDelia/app/build/intermediates/transforms/dexMerger/debug/10

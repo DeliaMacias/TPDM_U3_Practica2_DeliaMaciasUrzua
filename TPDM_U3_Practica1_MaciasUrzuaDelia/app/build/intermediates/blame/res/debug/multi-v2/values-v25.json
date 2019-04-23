@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/salfaro/Escritorio/TPDM_U3_Practica1_MaciasUrzuaDelia/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v25/values-v25.xml",
+            "outputFile": "C:\\Users\\TheMickyeBMO\\Documents\\moviles\\TPDM_U3_Practica1_MaciasUrzuaDelia\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v25\\values-v25.xml",
             "map": [
                 {
-                    "source": "/home/salfaro/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/47333f232cd4fc27084c86ec336910c8/res/values-v25/values-v25.xml",
+                    "source": "C:\\Users\\TheMickyeBMO\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\dd805d499f47a264ec81caa324fbc20a\\res\\values-v25\\values-v25.xml",
                     "from": {
                         "startLines": "2,3,4,6",
                         "startColumns": "4,4,4,4",
